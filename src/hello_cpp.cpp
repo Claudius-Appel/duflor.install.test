@@ -1,8 +1,7 @@
 #include <Rcpp.h>
-using namespace Rcpp;
 //' @title dummy cpp-function
 //' @name hello_cpp
-//' @param int_ an integer
+//' @param number a number
 //' @return /
 //' @export
 // [[Rcpp::export]]

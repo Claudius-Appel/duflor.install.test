@@ -7,7 +7,7 @@
 hello_cpp(number)
 }
 \arguments{
-\item{int_}{an integer}
+\item{number}{a number}
 }
 \value{
 /

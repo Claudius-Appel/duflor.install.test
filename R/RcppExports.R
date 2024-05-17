@@ -3,7 +3,7 @@
 
 #' @title dummy cpp-function
 #' @name hello_cpp
-#' @param int_ an integer
+#' @param number a number
 #' @return /
 #' @export
 hello_cpp <- function(number) {

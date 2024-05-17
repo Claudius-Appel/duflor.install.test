@@ -8,7 +8,7 @@ Authors@R: c(
   )
 Maintainer: Claudius Appel <claudius.appel@freenet.de>
 Description: Can this pacakge be compiled from source on the destination machine?
-    Intended to test basic validity of compiler-environment on systems I cannot check myself
+  Intended to test basic validity of compiler-environment on systems I cannot check myself.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
