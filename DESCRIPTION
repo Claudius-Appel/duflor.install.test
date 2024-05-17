@@ -1,0 +1,19 @@
+Package: duflor.install.test
+Type: Package
+Title: simple test package to see if a package using Rcpp can be installed from source on a system
+Version: 0.1.0
+Author: Claudius Appel
+Authors@R: c(
+    person("Claudius", "Appel", email =   "claudius.appel@freenet.de" , role = c("aut", "cre"))
+  )
+Maintainer: Claudius Appel <claudius.appel@freenet.de>
+Description: Can this pacakge be compiled from source on the destination machine?
+    Intended to test basic validity of compiler-environment on systems I cannot check myself
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
+LinkingTo: 
+    Rcpp
+Imports: 
+    Rcpp
