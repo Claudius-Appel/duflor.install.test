@@ -6,7 +6,7 @@
 #' @param number a number
 #' @return /
 #' @export
-hello_cpp <- function(number) {
+hello_cpp <- function(number = 1L) {
     invisible(.Call(`_duflor_install_test_hello_cpp`, number))
 }
 

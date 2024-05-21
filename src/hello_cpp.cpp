@@ -5,6 +5,6 @@
 //' @return /
 //' @export
 // [[Rcpp::export]]
-void hello_cpp(int number) {
+void hello_cpp(int number = 1) {
   std::cout << "hello world " << number << std::endl;
 }

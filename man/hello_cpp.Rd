@@ -4,7 +4,7 @@
 \alias{hello_cpp}
 \title{dummy cpp-function}
 \usage{
-hello_cpp(number)
+hello_cpp(number = 1L)
 }
 \arguments{
 \item{number}{a number}
