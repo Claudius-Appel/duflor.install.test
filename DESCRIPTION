@@ -1,7 +1,7 @@
 Package: duflor.install.test
 Type: Package
 Title: simple test package to see if a package using Rcpp can be installed from source on a system
-Version: 0.1.0
+Version: 0.1.1
 Author: Claudius Appel
 Authors@R: c(
     person("Claudius", "Appel", email =   "claudius.appel@freenet.de" , role = c("aut", "cre"))
